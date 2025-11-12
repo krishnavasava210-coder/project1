@@ -1,0 +1,7 @@
+.header-Logo img{
+    height: 150px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
